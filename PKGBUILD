@@ -2,7 +2,7 @@
 
 _pkgname=cros-container-guest-tools
 pkgname=${_pkgname}-git
-pkgver=r334.d0714026
+pkgver=r371.1cd40747
 pkgrel=1
 pkgdesc="Linux guest tools for the Crostini containers on ChromeOS"
 arch=('any')
